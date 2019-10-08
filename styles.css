@@ -12,9 +12,6 @@
   font-size: 30px;
 }
 
-
-
-
 #mainheader {
   text-align: center;
   background-color: black;
@@ -22,34 +19,29 @@
 }
 
 #div2 {
-margin-left: 30%;
-margin-right: 30%;
+  margin-left: 30%;
+  margin-right: 30%;
 }
 
 #nexteddiv1 {
   text-align: left;
 }
 
-
 #nesteddiv2 {
-
 }
 
 div.workheader {
- color:brown;
- text-align:center;
+  color: brown;
+  text-align: center;
 }
 
 p.workbody {
-font-family:verdana;
-color: orange;
-font-size: 150%;
-border: 1px solid white;
-padding: 30px;
-
-
+  font-family: verdana;
+  color: orange;
+  font-size: 150%;
+  border: 1px solid white;
+  padding: 30px;
 }
 
 p.workresp {
-
 }
